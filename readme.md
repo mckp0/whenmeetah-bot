@@ -3,7 +3,7 @@ As we grow older, our schedules get busier and it becomes increasingly hard to f
 
 
 ## What it does
-whenmeetah? (@whenmeetah_bot) Is a Telegram bot which can be integrated directly into group chats to /decidewhen to meet up. After selecting a timeframe, the user can select multiple dates to indicate availability. Our bot allows every member in the group chat to be fully aware of each other’s schedules. Use /answered to see who have indicated their availability and /done to generate the best available date. 
+whenmeetah? (@whenmeetah_bot) is a Telegram bot which can be integrated directly into group chats to /decidewhen to meet up. After selecting a timeframe, the user can select multiple dates to indicate availability. Our bot allows every member in the group chat to be fully aware of each other’s schedules. Use /answered to see who have indicated their availability and /done to generate the best available date. 
 
 On the day itself, use /whereyall to enter the postal code of the meeting venue. Afterwhich, each user can use /eta to enter their current location and mode of transport to find out how long more before they reach the destination.
 
@@ -27,7 +27,7 @@ Google Maps API Integration
 
 
 ## What's next for whenmeetah?
-We plan on expanding the date ranges by using a, and include time/timeslots for each day to give the user more flexibility in planning meet-ups. We also are looking into improving the date selection method to provide more transparency as to who is available on which dates. Lastly, we plan on working on the Google Maps integration further to make sending locations easier.
+We plan on expanding the date ranges by using a calendar widget to be able to select more dates, and include time/timeslots for each day to give the user more flexibility in planning meet-ups. We also are looking into improving the date selection method to provide more transparency as to who is available on which dates. Lastly, we plan on obtaining even more accurate results using the Google Maps API such as calling for ETA times with regards to live-time traffic conditions, and also to use the built-in geolocation service to obtain the current location of the user, in order to make sending locations easier.
 
 
 
